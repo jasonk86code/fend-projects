@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+A lot of this was a refresher for me from the beginning of the Intro to Programming Nanodegree. Though the hardest part was for me to remember how to make a line through the page by using the <hr> tag. Most of this has been easy so far. When I couldn’t find the solution for the line horizontally through the page on the MDN resource I used one of the strategies I wrote down, which was to use a search engine to find the answer I was looking for.
